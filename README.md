@@ -11,7 +11,7 @@ Experienced in translating comp,ex environmental data into ationable insights th
 * Colimbia University - New York,USA
 MS in Climate - Systems & Analytics
 
-**African Leadership University Kigali, Rwanda
+* African Leadership University Kigali, Rwanda
 BS in Entrepreneurial Leadership
 
 
@@ -31,10 +31,10 @@ BS in Entrepreneurial Leadership
 
 
 ## Experience
-** Graduate Independent Research - Columbia University, Climate School**
+* Graduate Independent Research - Columbia University, Climate School
 Researching how AI and big Data shape climate risk assessment and infrastructure governance.
 
-** Urban Climate Resilience Hackathon - Lead Researcher**
+* Urban Climate Resilience Hackathon - Lead Researcher
 Built a cloud-based workflow analyzing urban flood risk and identifying infrastructure vulnerability hotspots.
 
 
