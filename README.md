@@ -32,10 +32,10 @@ BS in Entrepreneurial Leadership
 
 ## Experience
 * Graduate Independent Research - Columbia University, Climate School
-Researching how AI and big Data shape climate risk assessment and infrastructure governance.
+-Researching how AI and big Data shape climate risk assessment and infrastructure governance.
 
 * Urban Climate Resilience Hackathon - Lead Researcher
-Built a cloud-based workflow analyzing urban flood risk and identifying infrastructure vulnerability hotspots.
+-Built a cloud-based workflow analyzing urban flood risk and identifying infrastructure vulnerability hotspots.
 
 
 ## Connect
