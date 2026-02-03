@@ -11,8 +11,8 @@ Experienced in translating comp,ex environmental data into ationable insights th
 * Colimbia University - New York,USA
 MS in Climate - Systems & Analytics
 
-* African Leadership University Kigali, Rwanda
-BS in Entrepreneurial Leadership
+* African Leadership University Kigali, Rwanda[link](https://www.alueducation.com)
+BS in Entrepreneurial Leadership 
 
 
 ## Technical Skills 
