@@ -15,7 +15,7 @@ MS in Climate - Systems & Analytics
 BS in Entrepreneurial Leadership
 
 
-## Tecnical Skills 
+## Techical Skills 
 
 * Programming: Python, R
 * Machine Learning:  Regression, clustering, neural networks
