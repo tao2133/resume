@@ -1,4 +1,6 @@
 # Tracy Obirika
+<img src="Tracy.jpeg" width="200"/>
+
 Climate & AI Researcher / Data Scientist for Climate Resilience / Columbia University
 
 ## About
@@ -6,7 +8,7 @@ Master's student in Climate Systems  & Analytics at Columbia University speacial
 Experienced in translating comp,ex environmental data into ationable insights that support infrasructure planning, sustainable development, and risk-informed decision-making.
 
 ## Education
-** Colimbia University - New York,USA
+* Colimbia University - New York,USA
 MS in Climate - Systems & Analytics
 
 **African Leadership University Kigali, Rwanda
@@ -15,10 +17,10 @@ BS in Entrepreneurial Leadership
 
 ## Tecnical Skills 
 
-** Programming: **Python, R
-** Machine Learning: ** Regression, clustering, neural networks
-** Tools: ** Git, GIS, spatial analysis
-** Data: ** Climate datasets, risk modeling, visualization
+* Programming: Python, R
+* Machine Learning:  Regression, clustering, neural networks
+* Tools:  Git, GIS, spatial analysis
+* Data:  Climate datasets, risk modeling, visualization
 
 
 ## Research Focus
